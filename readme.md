@@ -1,4 +1,4 @@
-# Ecmascript6+ 👋
+# Ecmascript6+ 💻📒
 Repaso completo de cada actualización de JavaScript desde ES6 y algunos conceptos posteriores
 
 #### ES6
